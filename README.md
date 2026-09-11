@@ -1,13 +1,13 @@
-# 📊 Adventure Works Sales Analysis
+# Adventure Works Sales Analysis
 
-## 🎯 Project Overview
+## Project Overview
 Sales performance analysis for Adventure Works company
 using Power BI with full Data Modeling.
 
-## 🛠️ Tools Used
+## Tools Used
 - Power BI Desktop
 - Data Modeling (Star Schema)
-- DAX Measures
+
 
 ## Data Model
 - Facts Sales (Fact Table)
